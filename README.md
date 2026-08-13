@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
