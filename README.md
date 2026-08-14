@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
