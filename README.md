@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
