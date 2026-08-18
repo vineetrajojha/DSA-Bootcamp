@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
+| [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
+| [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
