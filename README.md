@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -235,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
