@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
