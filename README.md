@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 | [1603-design-parking-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1603-design-parking-system) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 ## Heap (Priority Queue)
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
