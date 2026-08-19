@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
+| [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Matrix
 |  |
@@ -227,4 +230,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1603-design-parking-system) |
+| [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 <!---LeetCode Topics End-->
