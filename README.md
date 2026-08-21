@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -284,8 +287,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
