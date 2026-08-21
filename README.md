@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
