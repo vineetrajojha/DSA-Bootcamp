@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
@@ -153,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
 | [1603-design-parking-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1701-average-waiting-time) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
