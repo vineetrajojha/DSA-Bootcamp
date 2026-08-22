@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1603-design-parking-system) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 ## Heap (Priority Queue)
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0986-interval-list-intersections) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
