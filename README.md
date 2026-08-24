@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1872-stone-game-viii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1927-sum-game) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
