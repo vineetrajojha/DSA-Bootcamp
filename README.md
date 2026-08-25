@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0209-minimum-size-subarray-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
