@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
 | [0875-koko-eating-bananas](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0986-interval-list-intersections) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 ## Stack
 |  |
@@ -353,4 +358,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
