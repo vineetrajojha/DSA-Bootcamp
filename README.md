@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
+| [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
+| [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
+| [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
