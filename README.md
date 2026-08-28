@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
