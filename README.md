@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
