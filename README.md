@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
