@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0054-spiral-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 ## Combinatorics
