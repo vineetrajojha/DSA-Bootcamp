@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
 | ------- |
