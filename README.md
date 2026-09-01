@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0209-minimum-size-subarray-sum) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
