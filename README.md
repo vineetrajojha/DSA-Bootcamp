@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
