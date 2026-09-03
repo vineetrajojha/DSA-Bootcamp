@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
@@ -305,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
@@ -325,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0102-binary-tree-level-order-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0329-longest-increasing-path-in-a-matrix) |
