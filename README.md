@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
 | [0710-random-pick-with-blacklist](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0710-random-pick-with-blacklist) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
 ## Combinatorics
 |  |
