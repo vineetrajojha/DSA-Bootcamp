@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0118-pascals-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0165-compare-version-numbers) |
 | [0212-word-search-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
