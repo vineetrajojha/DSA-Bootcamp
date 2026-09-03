@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
