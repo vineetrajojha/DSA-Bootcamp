@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1603-design-parking-system) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 ## Heap (Priority Queue)
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0933-number-of-recent-calls) |
 ## Topological Sort
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0933-number-of-recent-calls) |
 ## Graph Coloring
 |  |
 | ------- |
