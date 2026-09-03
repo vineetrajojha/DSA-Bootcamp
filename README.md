@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
@@ -248,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0191-number-of-1-bits) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
@@ -482,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
