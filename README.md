@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0994-rotting-oranges) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
+| [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0841-keys-and-rooms) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0407-trapping-rain-water-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
 ## Stack
