@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0301-remove-invalid-parentheses) |
+| [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 ## Concurrency
 |  |
