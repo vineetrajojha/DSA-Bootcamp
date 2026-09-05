@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0841-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
