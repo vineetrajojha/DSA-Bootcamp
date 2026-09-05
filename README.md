@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0710-random-pick-with-blacklist) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0973-k-closest-points-to-origin) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1137-n-th-tribonacci-number) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
