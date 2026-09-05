@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0986-interval-list-intersections) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
 | [0763-partition-labels](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
