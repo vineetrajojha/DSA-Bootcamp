@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1563-stone-game-v) |
 | [1701-average-waiting-time](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1701-average-waiting-time) |
+| [1732-find-the-highest-altitude](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1872-stone-game-viii) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1912-design-movie-rental-system](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1912-design-movie-rental-system) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0930-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/3904-smallest-stable-index-ii) |
