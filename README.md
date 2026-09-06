@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
 | [0710-random-pick-with-blacklist](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0710-random-pick-with-blacklist) |
+| [0724-find-pivot-index](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0746-min-cost-climbing-stairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1872-stone-game-viii) |
