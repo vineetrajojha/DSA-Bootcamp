@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0376-wiggle-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0763-partition-labels) |
 | [1386-cinema-seat-allocation](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1386-cinema-seat-allocation) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/1768-merge-strings-alternately) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/vineetrajojha/DSA-Bootcamp/tree/master/0933-number-of-recent-calls) |
 ## Topological Sort
 |  |
